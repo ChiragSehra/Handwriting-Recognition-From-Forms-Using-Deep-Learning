@@ -1,0 +1,7 @@
+.idea/
+.vscode/
+temporaryResults/
+credentials/
+venv/
+buddy_api/settings.py
+*.pyc 
